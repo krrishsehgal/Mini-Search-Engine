@@ -62,6 +62,7 @@ Found 1083 results in 0.0010s
 Rank 1 | Score: 0.1337 | File: dataset/20_newsgroups/sci.space/60859
 Rank 2 | Score: 0.1052 | File: dataset/20_newsgroups/sci.space/61151
 Rank 3 | Score: 0.1052 | File: dataset/20_newsgroups/sci.space/61430
+```
 
 ### Query 2: "honda"
 
@@ -74,6 +75,8 @@ Found 155 results in 0.0002s
 Rank 1 | Score: 0.1204 | File: dataset/20_newsgroups/rec.autos/103212
 Rank 2 | Score: 0.0903 | File: dataset/20_newsgroups/rec.autos/103302
 
+```
+
 ### Query 3: Autocomplete
 
 **Input**: auto:spa
@@ -81,5 +84,3 @@ Rank 2 | Score: 0.0903 | File: dataset/20_newsgroups/rec.autos/103302
 
 ```
 Suggestions: space, spacecraft, spatial, spam, spain
-
-```
