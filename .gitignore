@@ -1,0 +1,4 @@
+dataset/
+*.exe
+*.o
+.DS_Store
